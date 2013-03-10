@@ -1,9 +1,9 @@
 rocksmith-tabs
 ==============
 
-This is a collection of Rocksmith tabs. Currently they only contain the bass parts.
+This is a collection of Rocksmith tabs. Currently many only contain the bass parts.
 If you 'd like to contribute the guitar part(s), please do! Instructions on how to 
-work with GitHub is available by clicking the "Help" button in the toolbar above.
+work with GitHub is available by clicking the "Help" button in the toolbar above (if you are redaing this on github, that is!.
 
 Rules for submission:
 * Only Rocksmith tabs are accepted, standard or DLC
